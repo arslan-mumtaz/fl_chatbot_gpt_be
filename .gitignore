@@ -1,0 +1,17 @@
+venv
+.env
+.env.local
+.env.dev
+__pycache__
+migrations
+.vscode
+allstatic
+my_lab.py
+.DS_Store
+*.prof
+profiling
+prod.env
+uploaded_documents
+chatbot/vectorstore
+extracted_tables
+extracted_images
